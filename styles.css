@@ -1,0 +1,35 @@
+h1{
+    color: #AF7AC5;
+    font-family: 'Righteous', cursive;
+}
+h2{
+    color: #00F5FF;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+h3{
+    color:red;
+    font-family: 'Diplomata', cursive;
+    }
+body{
+    background: black;
+    text-align:center;
+}
+img {
+    width: 200px;
+    border:5px solid blue;
+}
+p{
+    color:#FF6961;
+    font-family: 'Handlee', cursive;
+    font-size:20px;
+    }
+ul{
+    color:#85929E;
+    font-family: 'Rock Salt', cursive;
+
+    }
+ol{
+    color:#85929E;
+    font-family: 'Rock Salt', cursive;
+    }
+    
