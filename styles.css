@@ -1,35 +1,33 @@
-h1{
-    color: #AF7AC5;
+.award1{
+    color:red;
     font-family: 'Righteous', cursive;
 }
-h2{
+.award2{
     color: #00F5FF;
-    font-family: 'Gloria Hallelujah', cursive;
+   font-family: 'Merriweather', serif;
 }
-h3{
+.award3{
     color:red;
-    font-family: 'Diplomata', cursive;
+   font-family: 'Unlock', cursive;
+    }
+.award4{
+    color:red;
+  font-family: 'Bungee', cursive;
     }
 body{
-    background: black;
+    background: brown;
     text-align:center;
 }
 img {
     width: 200px;
     border:5px solid blue;
+    padding:20px;
 }
 p{
-    color:#FF6961;
+    color:yellow;
     font-family: 'Handlee', cursive;
     font-size:20px;
+    border: 5px solid yellow;
     }
-ul{
-    color:#85929E;
-    font-family: 'Rock Salt', cursive;
 
-    }
-ol{
-    color:#85929E;
-    font-family: 'Rock Salt', cursive;
-    }
     
